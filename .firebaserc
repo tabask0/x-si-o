@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "emency-31de2": {
+      "hosting": {
+        "x-si-o": [
+          "emency-31de2"
+        ]
+      }
+    }
+  }
+}
